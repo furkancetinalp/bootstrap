@@ -1,0 +1,43 @@
+body{
+    background-color: #E9ECEF;
+}
+
+.ana-menu{
+    height: 60px;
+    background-color: rgb(19, 23, 23);
+
+}
+.my-dukkan{
+    font-size:medium;
+    margin-left: 30px;
+    padding-top: 10px;
+    float: left;  
+
+}
+.size{
+    font-size: small;
+    margin-left: 10px;
+
+}
+.jumbotron{
+    padding-bottom: 0px;
+
+}
+.lead{
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 25vw;
+    object-fit:contain;
+}
+.card-img{
+    width: 100%;
+    height: 91.8vh;
+
+
+}
